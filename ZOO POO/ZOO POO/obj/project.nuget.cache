@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "OlTB3XF6s27T/CmplLu73hdwPVtvlSgdtiy/JQt6DBmSrXGM3pg8tuQvfu/KREkf7m4NO3RtkWQqUqemFzMrIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Projetos\\POO_ZOO\\ZOO POO\\ZOO POO\\ZOO POO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://200.98.128.83:81/nugetserver/nuget'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}

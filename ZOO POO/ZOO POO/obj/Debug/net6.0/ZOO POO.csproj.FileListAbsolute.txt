@@ -1,0 +1,43 @@
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\bin\Debug\net6.0\ZOO POO.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\bin\Debug\net6.0\ZOO POO.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\bin\Debug\net6.0\ZOO POO.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\bin\Debug\net6.0\ZOO POO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\bin\Debug\net6.0\ZOO POO.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\obj\Debug\net6.0\refint\ZOO POO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO\ZOO POO\obj\Debug\net6.0\ref\ZOO POO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\bin\Debug\net6.0\ZOO POO.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\bin\Debug\net6.0\ZOO POO.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\bin\Debug\net6.0\ZOO POO.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\bin\Debug\net6.0\ZOO POO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\bin\Debug\net6.0\ZOO POO.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\obj\Debug\net6.0\ZOO POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\obj\Debug\net6.0\ZOO POO.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\obj\Debug\net6.0\ZOO POO.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\obj\Debug\net6.0\ZOO POO.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\obj\Debug\net6.0\ZOO POO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\obj\Debug\net6.0\refint\ZOO POO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\obj\Debug\net6.0\ZOO POO.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\obj\Debug\net6.0\ZOO POO.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\ZOO POO a\ZOO POO\obj\Debug\net6.0\ref\ZOO POO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\bin\Debug\net6.0\ZOO POO.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\bin\Debug\net6.0\ZOO POO.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\bin\Debug\net6.0\ZOO POO.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\bin\Debug\net6.0\ZOO POO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\bin\Debug\net6.0\ZOO POO.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.sourcelink.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\obj\Debug\net6.0\refint\ZOO POO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\obj\Debug\net6.0\ZOO POO.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\POO_ZOO\ZOO POO\ZOO POO\obj\Debug\net6.0\ref\ZOO POO.dll
