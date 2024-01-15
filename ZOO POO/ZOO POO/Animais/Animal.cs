@@ -38,6 +38,6 @@
 
     public override int GetHashCode()
     {
-        return this.GetHashCode();
+        return Id.GetHashCode();
     }
 }

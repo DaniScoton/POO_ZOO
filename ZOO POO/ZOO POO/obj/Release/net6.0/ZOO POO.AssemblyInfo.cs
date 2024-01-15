@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZOO POO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f50f2de9a434bada0ba818df0f865918b648560")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56508a4274fe8ec2f09bedbc865b29930dceea56")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZOO POO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZOO POO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
